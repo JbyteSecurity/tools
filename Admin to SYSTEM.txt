@@ -1,0 +1,2 @@
+powershell -ep bypass "Install-Module -Name NtObjectManager;$v = start-Win32ChildProcess cmd"
+
